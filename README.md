@@ -62,6 +62,7 @@ Setup a hosting service (Heroku, PythonAnywhere, etc.)
 Configure environment variables and database connection
 
 📦 ecofinds
+```bash
  ┣ 📜 index.html            # Main front-end page
  ┣ 📜 styles.css            # Styling
  ┣ 📜 script-backend.js     # Front-end JS for API interactions
@@ -69,7 +70,7 @@ Configure environment variables and database connection
  ┣ 📜 requirements.txt      # Python dependencies
  ┣ 📜 .env                  # Environment variables (DB credentials)
  ┗ 📜 README.md             # Project documentation
-
+ ```
 
 🛠️ Tech Stack
 Front-End: HTML, CSS, JavaScript, Font Awesome
